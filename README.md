@@ -1,4 +1,4 @@
-# Non-Invasive-Poultry-Health-Management-System
+# Non-Invasive Poultry Health Management System
 This ML + IoT based system enables the detection of unhealthy chickens through real-time audio data. Neural nets are employed to identify any chickens that exhibit rales, which are gurgling sounds indicative of common respiratory illnesses in poultry.
 # Introduction
 Poultry farming is a critical component of the global food supply chain, providing a significant source of protein through meat and eggs. However, maintaining the health of poultry is a constant challenge due to the susceptibility of chickens to various respiratory illnesses. Early detection and treatment of these illnesses are crucial to prevent widespread outbreaks that can lead to significant economic losses and impact food security.
