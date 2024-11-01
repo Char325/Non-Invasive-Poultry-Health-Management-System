@@ -18,9 +18,41 @@ cd Non-Invasive-Poultry-Health-Management-System
 pip install -r requirements.txt
 
 ```
+# Audio Health Dataset
+
+This repository contains a dataset of audio recordings categorized into three types: healthy, unhealthy, and noise.
+
+### Dataset Description
+
+- **Healthy**: Audio recordings that are considered normal.
+  Sample:
+  
+
+https://github.com/user-attachments/assets/ce565806-d24d-4fcf-861c-be9831f8daa1
+
+
+- **Unhealthy**: Audio recordings that indicate some form of abnormality.
+
+
+https://github.com/user-attachments/assets/66bd7606-e3ae-4202-a0fc-15758120f9c9
+
+
+
+- **Noise**: Audio recordings that contain background noise or other irrelevant sounds.
+
+
+https://github.com/user-attachments/assets/02baffb3-764d-4510-a11d-b4dc16dc6e32
+
+These data showcase minor variations in audio which are often not comprehensible to the human ears and hence, leading to neglect.
+
+
+## Results
+
+The system provides real-time health status updates and alerts based on the analysis of the collected data. The results are displayed on a dashboard for easy monitoring.
+
   
 # Contributing
-Guidelines for contributing to the project. For example:
+Contributions from the community are always welcome! Please follow these steps to contribute:
 
 1. Fork the repository
 2. Create a new branch (git checkout -b feature-branch)
